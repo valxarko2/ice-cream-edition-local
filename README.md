@@ -19,8 +19,9 @@ If your browser asks whether to keep the file, choose **Keep**: it's a normal we
 - **Themes**: Overhauled, Legacy, Low (for slower Chromebooks), Basic, Minimal, plus layouts inspired by
   Steam, Roblox, YouTube, Spotify and The Pizza Edition. Make your own in Settings > Customize and share it with a code.
 - **Shorts**: a grid of short videos that open on YouTube.
-- **Notes** (or **Chat**, when it's open): the Chat tab asks first. Say no and it becomes private notes on your computer.
-  Chat blocks swearing, slurs and links.
+- **Chat**: talk with other players. The tab asks before it connects; say no and it becomes private **Notes** on
+  your computer instead. Chat blocks swearing, slurs and links, messages disappear after a day, and you can hide
+  anyone. Use a nickname, never your real name or school.
 - **Break timer**, keyboard shortcuts, and lots of settings.
 
 Your settings, favorites and notes are saved in your browser, on your computer.
